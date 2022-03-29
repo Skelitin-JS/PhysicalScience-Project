@@ -8,6 +8,6 @@ We were tasked with making a digital, or handwritten booklet on the planets.
 
 This is my "Planet Booklet"
 
-If you have any problems with the site, please email them to skelitinsite@gmail.com
+If you have any problems with the site, please email them to skelitinsite@gmail.com or 2009ratsnake@gmail.com
 
 Thank you.
