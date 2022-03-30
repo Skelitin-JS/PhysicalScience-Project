@@ -4,3 +4,7 @@ html{
 font-family: Karla;
 background-image: url(backround.png);
 }
+input {
+    /* custom */
+    caret-color: DeepPink;
+  }
