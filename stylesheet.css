@@ -12,3 +12,7 @@ input {
     position: fixed;
     bottom: 0;
     } 
+
+textarea {
+    caret-color: green;
+  }
