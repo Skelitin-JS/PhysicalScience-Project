@@ -22,3 +22,13 @@ textarea {
   border: solid 2.5px rgb(0, 0, 0);
   transition: border-width 0.4s linear;
 }
+input {
+    caret-color: red;
+  }
+  
+  textarea {
+    caret-color: green;
+  }
+  cursor{
+      color: red;
+  }
