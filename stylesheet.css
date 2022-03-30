@@ -16,3 +16,9 @@ input {
 textarea {
     caret-color: green;
   }
+  .btn:hover {background: rgba(238, 238, 238, 0.48);}
+.fourofour {color: black}
+.border-button {
+  border: solid 2.5px rgb(0, 0, 0);
+  transition: border-width 0.4s linear;
+}
