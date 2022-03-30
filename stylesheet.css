@@ -8,3 +8,7 @@ input {
     /* custom */
     caret-color: DeepPink;
   }
+  .bottom {
+    position: fixed;
+    bottom: 0;
+    } 
