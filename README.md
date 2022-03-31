@@ -14,7 +14,7 @@ If you would like to use any of the code for your own, feel free.
 
 Credit to W3schools for some of the HTML that I forgot how to do.
 
-[<img src="https://replit.com/public/images/logo-small.png" width="25"/>](https://replit.com/@TavenColeman/PhysicalScience-Project#README.md)
+[<img src="https://replit.com/public/images/logo-small.png" width="250"/>](https://replit.com/@TavenColeman/PhysicalScience-Project#README.md)
 
 
 
