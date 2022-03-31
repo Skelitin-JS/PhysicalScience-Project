@@ -130,46 +130,7 @@ background-image: url(Skelitin-JS/PhysicalScience-Project/backround.png);
     <h3> or</h3>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=2009ratsnake@gmail.com">2009ratsnake@gmail.com (personal)</a><br>
     <p contenteditable="true">
-      <script type="text/javascript">
-
-      </script>
-      <div id="edit" contenteditable="true">
-       Click To Add Notes (I can't see this)
-        </div>
-        <input type="button" value="save" onclick="saveEdits()"/>
-
-        <div id="update"> - Edit the text and click to save for next time</div>
-        <script>
-        function saveEdits() {
-
-          //get the editable element
-          var editElem = document.getElementById("edit");
-          
-          //get the edited element content
-          var userVersion = editElem.innerHTML;
-          
-          //save the content to local storage
-          localStorage.userEdits = userVersion;
-          
-          //write a confirmation to the user
-          document.getElementById("update").innerHTML="Edits saved!";
-          
-          }
-        </script>
-
-<body onload="checkEdits()">
-  <script>
-  function checkEdits() {
-
-    //find out if the user has previously saved edits
-    if(localStorage.userEdits!=null)
-    document.getElementById("edit").innerHTML = localStorage.userEdits;
-    }
-  </script>
-  <script> 
-  var editElem = document.getElementById("edit");
-  editElem.contentEditable="false";
-</script>
+     
   
     <h3> (also, the version changes everytime I "commit" new code. so, everytime I change anything or even many things that is called a commit)</h3>
     <style>
@@ -194,6 +155,6 @@ background-image: url(backround.png);
        color: #f9f9f9;
      }
    </style>
-   <p class="bottom">Version 0.48</p>
+   <p class="bottom">Version 0.49</p>
    
    
