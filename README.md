@@ -14,7 +14,7 @@ If you would like to use any of the code for your own, feel free.
 
 Credit to W3schools for some of the HTML that I forgot how to do.
 
-[<img src="autodraw 3_31_2022.png" width="100" height="100"/>](https://github.dev/Skelitin-JS/PhysicalScience-Project)
+[<img src="autodraw 3_31_2022.png" width="300" height="100"/>](https://github.dev/Skelitin-JS/PhysicalScience-Project)
 
 
 
