@@ -1,4 +1,16 @@
 {
     "name": "Science-Booklet",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "scripts": {
+      "start": "index.html start",
+      "build": "index.html build",
+      "test": "index.html test",
+      "eject": "index.html eject"
+    }
+  
+     
   }
+  
+  
+  
+  
