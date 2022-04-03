@@ -2,8 +2,8 @@
 html{
     text-align: center;
 font-family: Karla;
-background-image: url(backround.png);
 }
+
 input {
     /* custom */
     caret-color: DeepPink;
@@ -34,4 +34,6 @@ input {
   }
   html{
     color: white;
+    
   }
+  
