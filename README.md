@@ -14,7 +14,13 @@ If you would like to use any of the code for your own, feel free.
 
 Credit to W3schools for some of the HTML that I forgot how to do.
 
-[<img src="autodraw 3_31_2022.png" width="300" height="200"/>](https://github.dev/Skelitin-JS/PhysicalScience-Project)
+# DUE DATE: WEDNESDAY, MAY 4TH
+
+This project is due on Wednesday, May 4th.
+
+:)
+
+Very happy we got a while to work on it.
 
 
 
