@@ -22,6 +22,14 @@ This project is due on Wednesday, May 4th.
 
 Very happy we got a while to work on it.
 
+# HOW TO USE:
+
+I mean its a static html page, with javascript for the navbar.
+
+Simply host in on either replit, glitch or go to the live site.
+
+Use of this is fine, just credit me please.
+
 
 
 
