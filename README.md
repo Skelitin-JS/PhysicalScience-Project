@@ -24,7 +24,7 @@ Very happy we got a while to work on it.
 
 # HOW TO USE:
 
-I mean its a static html page, with javascript for the navbar.
+I mean its a static html page, with ~javascript~ css for the navbar.
 
 Simply host in on either replit, glitch or go to the live site.
 
