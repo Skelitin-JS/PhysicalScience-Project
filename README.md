@@ -30,7 +30,5 @@ Simply host in on either replit, glitch or go to the live site.
 
 Use of this is fine, just credit me please.
 
-
-
-
+~git clone https://github.com/Skelitin-JS/PhysicalScience-Project/~
 
